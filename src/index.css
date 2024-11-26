@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400;500;700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: 'NeueMachina';
+  src: url('/NeueMachina-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NeueMachina';
+  src: url('/NeueMachina-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NeueMachina';
+  src: url('/NeueMachina-Ultrabold.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+
