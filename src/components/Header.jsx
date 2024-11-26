@@ -3,7 +3,7 @@ import { PrimaryButton, SecondaryButton } from './Buttons';
 function Header() {
   return (
     <main className="min-h-[90vh] flex flex-col justify-center px-4 md:px-32 font-neue text-center md:text-left relative overflow-hidden">
-      <div className="absolute top-96 right-[-100px] w-[800px] h-[800px] rounded-full bg-gradient-radial from-yellow-500/15 via-yellow-500/8 to-transparent blur-3xl pointer-events-none" />
+      <div className="absolute top-96 right-[-50px] md:right-[-100px] w-[320px] md:w-[800px] h-[400px] md:h-[800px] rounded-full bg-gradient-radial from-yellow-500/15 via-yellow-500/8 to-transparent blur-3xl pointer-events-none" />
       
       <h1 className="relative text-3xl md:text-[5rem] font-bold mb-4 text-white leading-[1.1]">
         Trusted Multi-Chain

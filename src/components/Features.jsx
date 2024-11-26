@@ -34,7 +34,7 @@ function Features() {
   return (
     <section className="py-16 animate-fade-in relative">
       <div className="container mx-auto px-4">
-        <div className="absolute top-[400px] left-[40%] -translate-x-1/2 w-[900px] h-[700px] rounded-full bg-gradient-radial from-yellow-500/15 via-yellow-500/8 to-transparent blur-3xl pointer-events-none" />
+        <div className="absolute top-[400px] md:left-[40%] left-1/2 -translate-x-1/2 w-[320px] md:w-[900px] h-[400px] md:h-[700px] rounded-full bg-gradient-radial from-yellow-500/15 via-yellow-500/8 to-transparent blur-3xl pointer-events-none" />
         
         <ComparisonTable />
 

@@ -27,8 +27,8 @@ function FAQ() {
 
   return (
     <section className="py-24 relative overflow-hidden">
-      <div className="absolute top-[200px] left-[-400px] w-[900px] h-[700px] rounded-full bg-gradient-radial from-yellow-500/15 via-yellow-500/8 to-transparent blur-3xl pointer-events-none" />
-      <div className="absolute top-0 right-[-400px] w-[900px] h-[700px] rounded-full bg-gradient-radial from-yellow-500/15 via-yellow-500/8 to-transparent blur-3xl pointer-events-none" />
+      <div className="absolute top-[200px] left-[-150px] md:left-[-400px] w-[320px] md:w-[900px] h-[400px] md:h-[700px] rounded-full bg-gradient-radial from-yellow-500/15 via-yellow-500/8 to-transparent blur-3xl pointer-events-none" />
+      <div className="absolute top-0 right-[-150px] md:right-[-400px] w-[320px] md:w-[900px] h-[400px] md:h-[700px] rounded-full bg-gradient-radial from-yellow-500/15 via-yellow-500/8 to-transparent blur-3xl pointer-events-none" />
       <div className="container mx-auto px-4 relative">
         <div className="max-w-6xl mx-auto p-8 md:p-24 md:backdrop-blur-sm bg-black/40 md:bg-white/5 transition-transform duration-300 rounded-lg border border-white/10 md:bg-gradient-to-br from-white/5 to-transparent hover:scale-[1.01]">
           <h2 className="text-4xl font-bold mb-8 md:mb-16 text-center text-white font-neue">
