@@ -1,9 +1,9 @@
 function Footer() {
   const navLinks = [
-    { href: '/about', text: 'About Us' },
-    { href: '/roadmap', text: 'Roadmap' },
-    { href: '/faqs', text: 'FAQs' },
-    { href: '/contact', text: 'Contact Us' },
+    { href: '#', text: 'About Us' },
+    { href: '#', text: 'Roadmap' },
+    { href: '#', text: 'FAQs' },
+    { href: '#', text: 'Contact Us' },
   ];
 
   const socialLinks = [

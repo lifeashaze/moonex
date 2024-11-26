@@ -2,11 +2,11 @@ import { useState } from 'react';
 import { PrimaryButton } from './Buttons';
 
 const NAV_ITEMS = [
-  { href: '#home', label: 'Home' },
-  { href: '#about', label: 'About Us' },
-  { href: '#roadmap', label: 'Roadmap' },
-  { href: '#faqs', label: 'FAQs' },
-  { href: '#contact', label: 'Contact Us' },
+  { href: '#', label: 'Home' },
+  { href: '#', label: 'About Us' },
+  { href: '#', label: 'Roadmap' },
+  { href: '#', label: 'FAQs' },
+  { href: '#', label: 'Contact Us' },
 ];
 
 // eslint-disable-next-line react/prop-types
