@@ -6,7 +6,7 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div className="min-h-screen bg-primary md:bg-[url('/bg-img.png')] bg-no-repeat bg-contain">
+    <div className="min-h-screen bg-primary md:bg-[url('/bg-img.webp')] bg-no-repeat bg-contain">
       <Navbar />
       <Header />
       <Features />
